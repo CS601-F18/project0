@@ -54,10 +54,10 @@ I love my purple pigtails."
 
 | Points | Criterion |
 | ------ | -------- |  
-| 60 | Passes AmazonReviewsTest test case as required. |  
-| 15 | Solution is well designed and uses appropriate class and method decomposition. |  
-| 15 | Solution is efficient and uses appropriate data structures and avoids unnecessary iterations over the data. |  
-| 10 | Meets all style guidelines. |  
+| 60 | **Functionality** - Passes AmazonReviewsTest test case as required. |  
+| 15 | **Design** - Solution is well designed and uses appropriate class and method decomposition. |  
+| 15 | **Design** - Solution is efficient and uses appropriate data structures and avoids unnecessary iterations over the data. |  
+| 10 | **Design** - Meets all style guidelines. |  
 
 Partial credit *may* be awarded for partial functionality and/or partially correct design or style elements.
 
